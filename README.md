@@ -7,3 +7,4 @@
 * NU Hotspots
 * NU class planning
 * Friends winter break
+* Automated worklogging for class and task to track studying patterns
