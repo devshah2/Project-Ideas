@@ -10,3 +10,4 @@
 * Automated worklogging for class and task to track studying patterns
 * Food tracking
 * Coding keylogger and macro suggestions
+* Convert messages into interactive AI model
