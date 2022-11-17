@@ -6,8 +6,8 @@
 * Where to eat NU
 * NU Hotspots
 * NU class planning
-* Friends winter break
+* Friends winter break 
 * Automated worklogging for class and task to track studying patterns
 * Food tracking
 * Coding keylogger and macro suggestions
-* Convert messages into interactive AI model
+* Convert messages into interactive AI model (Currently Private)
