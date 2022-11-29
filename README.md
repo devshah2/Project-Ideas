@@ -1,6 +1,7 @@
 # Project Ideas
  List of ideas in progress
 
+* Causal inference for poker/tic-tac-toe
 * Dorm room controller
 * Logic proof checker
 * Where to eat NU
