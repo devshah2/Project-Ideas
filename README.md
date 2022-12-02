@@ -2,6 +2,7 @@
  List of ideas in progress
 
 * Causal inference for poker/tic-tac-toe
+* Dad joke generator
 * Dorm room controller
 * Logic proof checker
 * Where to eat NU
