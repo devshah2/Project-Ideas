@@ -14,3 +14,4 @@
 * Coding keylogger and macro suggestions
 * Convert messages into interactive AI model (Currently Private)
 * App to filter CAESER classes by location and time to find out any class to pop into
+* Find next term in pattern
