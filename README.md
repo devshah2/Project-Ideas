@@ -7,6 +7,8 @@
 * Playlist by task (and past listening history)
 * Song to mood contrastive learning
 * Song to image for covers
+* Explain what models do using iterative explanations
+* 
 
  ## List of ideas in progress
 * Causal inference for poker/tic-tac-toe
