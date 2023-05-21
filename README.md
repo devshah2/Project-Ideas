@@ -1,6 +1,14 @@
 # Project Ideas
- List of ideas in progress
+## Generative Ideas
+* Personalized whatsapp/imessage text completion using BERT
+* Generative story RPG with image from stability AI and audio and text
+* Generative overthinker/help with overthinking
+* Image improver (crituqe and then fix)
+* Playlist by task (and past listening history)
+* Song to mood contrastive learning
+* Song to image for covers
 
+ ## List of ideas in progress
 * Causal inference for poker/tic-tac-toe
 * Dad joke generator
 * Dorm room controller
